@@ -1,0 +1,25 @@
+body{
+  align-items: center;
+  background-color: white;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.appVideo {
+  position: absolute;
+  z-index: 1;
+
+}
+
+.appCanvas {
+  position: relative;
+  z-index: 20;
+}
+
+.myApp {
+  align-items: center;
+  margin: 0 auto;
+  background-color: white;
+  color: black;
+}
